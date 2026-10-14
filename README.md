@@ -5,9 +5,11 @@
 - Analyzed average salary and employee tenure to generate HR insights.
 - Created visual reports to support data-driven HR decision-making.
 
+
 ## 2. Sales Data Dashboard — Excel
 - Analyzed **40 sales records** to evaluate orders, revenue, products, customers, and discounts.
 - Created KPI summaries for total orders, total sales amount, average order amount, and highest order amount.
 - Used PivotTables, charts, formulas, and slicers for interactive sales analysis.
 - Identified product and sales trends to understand business performance.
 - Presented key business insights through a structured Excel dashboard.
+
